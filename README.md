@@ -1,1 +1,1 @@
-A digital and analog clock that shows the time down to the second, in either 24-hour or 12-hour format (changeable in the code). The analog clock has three hands that point to neon circles, each following a circular path around the center. These circles are color-coded for the hour, minute, and second, matching the clock’s overall aesthetic. The digital display uses the same color scheme, which can be customized in the project’s CSS file.
+
